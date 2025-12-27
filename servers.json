@@ -58,4 +58,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "My anisette servers",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "https://anisette-kago.onrender.com"
 }
